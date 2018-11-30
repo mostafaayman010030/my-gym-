@@ -1,0 +1,131 @@
+.bk
+{ background:url(../imgs/77.jpg) no-repeat top center fixed ;
+background-size:cover;
+height:800px;
+color:#FFF;
+
+}
+.bk2
+{ background:url(../imgs/66.jpg) no-repeat top center fixed  ;
+background-size:cover;
+height:800px;
+color:#FFF;
+
+
+	}
+
+	.bk4
+{ background:url(../imgs/13.jpg) no-repeat top center fixed  ;
+background-size:cover;
+height:800px;
+color:#FFF;
+
+
+	}
+
+
+	
+.jumbotron
+{
+	margin-bottom:0 !important;
+	margin-top:0 !important;	
+	
+	}
+
+	
+	
+		 			@font-face {
+    font-family: myFirstFont;
+	src:url(../fonts/Digitalt.ttf);
+	
+	
+}
+	
+/*.back
+{
+	background-color: white;
+	/*opacity: .5;*/
+}
+*/		
+
+.fo {
+    font-family: myFirstFont;
+	font-size:40px;
+	text-shadow: 1;
+	font-variant: all;
+	text-transform: capitalize;
+	font-family: serif;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: -2%;
+	
+ 
+}
+
+footer {
+            background-color: black;
+        }
+        
+#justpushtobottom {
+  
+}
+
+.thumbnail img
+{
+	height: 150px;
+	
+}	
+ p
+{
+	font-size: 1px;
+	color: #FF830D;
+	margin-top: -2%;
+	text-shadow: 1;
+	font-variant: all;
+	text-transform: capitalize;
+	font-family: serif;
+	font-weight: bold;
+}
+.caption
+{
+	color: #F7770C;
+	/*background: rgba(255,255,255,.8);*/
+}
+.btn-primary
+{
+	background-color:  #2B2B2B;
+	color: white;
+	border: none;
+}
+.btn-default:hover
+{
+	background-color: #2B2B2B;
+	color: white;
+}
+.footer1
+{
+	color: black;
+	background-color: #828282;
+	text-shadow: 1;
+	font-variant: all;
+	text-transform: capitalize;
+	font-family: serif;
+	font-weight: bold;
+
+}
+.form1
+{
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: -10%;
+	text-shadow: 1;
+	font-variant: all;
+	text-transform: capitalize;
+	font-family: serif;
+	font-weight: bold;
+}
+.buyhover:hover
+{
+	background-color: white;
+	color: black;
+}

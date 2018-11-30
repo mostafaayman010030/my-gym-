@@ -1,0 +1,180 @@
+body {
+     background: url('https://static-communitytable.parade.com/wp-content/uploads/2014/03/rethink-target-heart-rate-number-ftr.jpg') fixed;
+    background-size: cover;
+    background: url(../imgs/19.jpg);
+background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: white;
+}
+.container
+{
+    font-size: 20px;
+}
+
+*[role="form"] {
+    max-width: 580px;
+    padding: 15px;
+    margin: 0 auto;
+    border-radius: 0.4em;
+    background-color:rgba(0,0,0,.2);
+ background-color: linear-gradient(white, #0B123A);
+     margin-top: 2%;
+
+}
+
+*[role="form"] h2 { 
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+input[type="text"]
+{
+    padding: 1px 2px 1px 2px;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    width:85%;
+    height: 40px;
+    font-size: 15px;
+    padding: 0 20px;
+}
+input[type="email"]
+{
+    padding: 1px 2px 1px 2px;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    width:85%;
+    height: 40px;
+    font-size: 15px;
+    padding: 0 20px;
+}
+input[type="password"]
+{
+    padding: 1px 2px 1px 2px;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    width:85%;
+    height: 40px;
+    font-size: 15px;
+    padding: 0 20px;
+}
+input[type="date"]
+{
+    padding: 1px 2px 1px 2px;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    width:85%;
+    height: 40px;
+    font-size: 15px;
+    padding: 0 20px;
+}
+input[type="phoneNumber"]
+{
+    padding: 1px 2px 1px 2px;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    width:85%;
+    height: 40px;
+    font-size: 15px;
+    padding: 0 20px;
+}
+.aa
+{
+    display: inline-block;
+    padding: 20px;
+}
+.x
+{
+  padding-top: 10px;
+  margin-top: -3%;
+    padding: 55px
+}
+.p
+{
+     margin-top: -9%;
+}
+.phone1
+{
+    margin-top: 2%;
+    margin-bottom: 1.5%;
+
+}
+span
+{
+    margin-top: 2%;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+.hw
+{
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+
+}
+input[type="Number"]
+{
+    padding: 1px 2px 1px 2px;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    width:60%;
+    height: 40px;
+    font-size: 15px;
+    padding: 0 20px;
+}
+.r1
+{
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 20%;
+}
+input[type="radio"]
+{
+    
+    color: black;
+    border: none;
+    font-size: 15px;
+}
+.register
+{
+    margin-top: 2%;
+    margin-left: 30%;
+}
+button[type="submit"]
+{
+    padding: 1px 2px 1px 2px;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    width:30%;
+    height: 40px;
+    font-size: 25px;
+    padding: 0 20px;
+    cursor: pointer;
+    background-color: #0946AB;
+    color: white;
+    margin-left: 30%;
+
+}
+.ss
+{
+  margin-left: 30%;  
+}
+button[type="submit"]:hover
+{
+    background-color: #06337D;
+    color: white;
+}

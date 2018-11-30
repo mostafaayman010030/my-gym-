@@ -1,0 +1,353 @@
+body
+{
+	background-color: #EFF7E3;
+}
+.vn
+{
+	position: relative;
+	margin-bottom: 0;
+	
+	margin-top: 0%;
+	/*border:3px solid green;*/
+
+}
+.navbar-default .navbar-nav>li>a
+{
+	color: #F5E5E4; 
+}
+.description
+{
+	margin-top: 30%;
+}
+.nn
+{
+	
+	font-weight: bold;
+	font-size: 20px;
+	/*border: 1px solid black;*/
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background-color: none;
+	background-color:#7D1806	;
+	border: none;
+	height: 1.8em;
+	right: 0;
+   
+}
+.le
+{
+	float: left;
+}
+li
+{
+	text-transform: capitalize;
+	font-weight: bold;
+	
+}
+.dropdown-menu
+{
+	background: rgba(0,0,0,1);
+	color: white; 
+}
+.dropdown-menu>li>a
+{
+	color: white; 
+}
+.navbar-form .form-control
+{
+		background: rgba(0,0,0,.1);
+		color: white; 
+		border: none;
+		font-size: 20px;
+
+}
+.btn-default
+{
+			background: rgba(0,0,0,0.0);
+			color: #F5E5E4; 
+			border: none;
+			font-size: 20px
+}
+.navbar-default .navbar-nav>li>a
+{
+	margin-left: 0;
+}
+
+.ig
+{
+	font-size: 50px;
+	text-transform: capitalize;
+	font-style: italic;
+	font-family: serif;
+	font-weight: bold;
+	color: #F5E5E4; 
+	position: absolute;
+	left: 45%;
+	top: 50%;
+	margin-top: 20px;
+	
+}
+.ig i
+{
+	/*border: 3px solid red;*/
+	margin-left: 20px;
+
+	color: #F5E5E4;
+	font-size: 100px
+}
+.ss
+{
+	margin-right: -1%;
+}
+.header1
+{
+	background-image:url("../imgs/1.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	color: gray;
+	
+	
+	/*border:3px solid red;*/
+	padding-top: 10px;
+	padding-bottom: 50px;
+	height: 500px;
+}
+.header2 img
+{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	
+	opacity: none;
+}
+.header2 .im
+{
+
+opacity: .9;
+width: 40%;
+border-radius: 100px;
+margin-left: 25%;
+}
+.header1 h1, h3 ,h4
+{
+	color: #870000;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	font-style: oblique;
+	text-transform: capitalize;
+
+}
+.header1 h1
+{	
+
+		font-size: 50px;
+		margin-top: 2em;
+}
+.header1 h3
+{
+	font-size: 30px;
+	margin-left: 15%;
+	color: #25E495;
+	margin-top: 2em;
+}
+.header1 h4
+{
+	font-size: 30px;
+	margin-left: 20%;
+	color: #A3DA23;
+	margin-top: 2em;
+}
+.header2 a
+{
+	margin-left: 50%;
+}
+.arrow
+{
+	color: #BAB9A9;
+}
+.aaa
+{
+
+	background-size: cover;
+	
+	background-repeat: no-repeat;
+}
+.ds
+{
+	
+	/*border: 5px solid black;*/
+	overflow: hidden;
+	
+	
+	
+	margin-top: 5%;
+	border-radius: 50px;
+	margin-right: 10px;
+	padding: 18px;
+	background-color: rgba(209,208,190,0.0);
+	color: #55056E;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	text-transform: capitalize;
+	text-align: justify;
+	font-size: 18px;
+}
+.ds div img
+{
+	width: 100%;
+	height: 200px;
+	margin: auto;
+	border-radius: 10px;
+	
+}
+.ds .i4
+{
+	margin-left: 120px;
+	margin-right: 20px;
+}
+.dform
+{
+	margin-top:12%;
+	border-radius: 50px; 
+	overflow: hidden;
+	width: 35%;
+	height: 40%;
+	font-family: sans-serif;
+
+}
+.aform
+{ 	
+	margin:2px 2px 2px 2px;
+	padding: 6%;
+}
+
+.sub
+{
+	background-color: #7D1806;
+			color: white; 
+	margin-left: 20%;
+}
+.sub:hover
+{
+	color: white;
+	background-color: #691405;
+
+}
+.subserch:hover
+{
+		color: white;
+	background-color: #691405;
+
+}
+
+
+.navbar-default .navbar-nav>li>a:hover
+{
+		background: rgba(80,0,0,1);
+			color: white; 
+			
+			
+
+}
+.navbar-default .navbar-nav>li>a
+{
+	background-color: rgba(0,0,0,0.0);
+	border: none;
+	font-size: 20px
+}
+.login
+{
+	border: none;
+	background-color: none;
+}
+.de
+{
+	
+	font-size: 50px;
+	text-transform: capitalize;
+	font-style: italic;
+	font-family: serif;
+	font-weight: bold;
+	color: white; 
+	position: absolute;
+	left: 25%;
+	top: 30%;
+	margin-top: 15px;
+	width: 50%;
+
+}
+.de h1 ,h2,h3
+{
+	margin: auto;
+	margin-left: 25%;
+	color: #7D1806; 
+	margin-top: 30px;
+}
+.de h2
+{
+	margin-left: 30%;
+	color: white; 
+	padding: 10px;
+}
+.de h3
+{
+	margin-left: 22%;
+	padding: 10px;
+	color: white; 
+}
+.icon
+{
+	color:#7D1806;
+}
+
+
+
+
+
+/*----------------------------------------------------------------------------------------*/
+
+.contact{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    /*background: rgb(58,62,100);*/
+    background-color: #7D1806;
+    color: aliceblue;
+    
+}
+.contact .loc{
+    padding-bottom: 15px
+}
+.contact .loc h4{
+    font-weight: bold;
+    padding-bottom: 10px
+}
+.contact .loc .fa{
+    border: 2px solid white;
+    font-size: 14px;
+    padding: 7px
+}
+.contact .loc .fa-facebook{
+    padding: 7px 10px
+}
+.contact .loc .lead{
+    font-size: 14px;
+    color: rgba(240,248,255,0.7);
+}
+.contact .loc h5{
+    color: rgba(240,248,255,0.7);
+}
+.loc li
+{
+	color: white;
+	text-decoration: none;
+	text-transform: capitalize;
+	font-weight: bold;
+	list-style-type: circle;
+	margin-top: 1%
+}
+.loc li>a
+{
+	color: white; 
+}
