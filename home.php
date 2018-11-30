@@ -11,7 +11,7 @@ if($rows[0][3] == $email)
 
 }
 else
-
+	header("Location:login.php");
 
 
 ?>
